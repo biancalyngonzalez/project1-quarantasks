@@ -1,0 +1,64 @@
+{
+"state" :{
+    "alabama" : {
+        "application_fee" : 100,
+        "background_check": 50,
+        "transcript_undergrad" : 10,
+        "transcript_grad" : 0,
+        "certification" : 40,
+        "license_verification" : 100,
+        "notary" : 20,
+        "money_order" : 0
+    },
+    "alaska" : {
+        "application_fee" : 100,
+        "background_check": 50,
+        "transcript_undergrad" : 10,
+        "transcript_grad" : 0,
+        "certification" : 40,
+        "license_verification" : 100,
+        "notary" : 20,
+        "money_order" : 0
+    },
+    "arizona" : {
+        "application_fee" : 100,
+        "background_check": 50,
+        "transcript_undergrad" : 10,
+        "transcript_grad" : 0,
+        "certification" : 40,
+        "license_verification" : 100,
+        "notary" : 20,
+        "money_order" : 0
+    },
+    "arkanasas" : {
+        "application_fee" : 100,
+        "background_check": 50,
+        "transcript_undergrad" : 10,
+        "transcript_grad" : 0,
+        "certification" : 40,
+        "license_verification" : 100,
+        "notary" : 20,
+        "money_order" : 0
+    },
+    "california" : {
+        "application_fee" : 100,
+        "background_check": 50,
+        "transcript_undergrad" : 10,
+        "transcript_grad" : 0,
+        "certification" : 40,
+        "license_verification" : 100,
+        "notary" : 20,
+        "money_order" : 0
+    },
+    "colorado" : {
+        "application_fee" : 100,
+        "background_check": 50,
+        "transcript_undergrad" : 10,
+        "transcript_grad" : 0,
+        "certification" : 40,
+        "license_verification" : 100,
+        "notary" : 20,
+        "money_order" : 0
+    },
+}
+}  
